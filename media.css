@@ -1,0 +1,50 @@
+/* @media screen and (max-width:2560px) {
+    .details h1 {
+      
+        font-size: 80px;
+    }
+    .heading-part {
+        height: 300px;
+}
+.details p,
+address {
+    line-height: 34px;
+    font-size: 28px;
+}
+.heading-part .details {
+    margin-left: 20px;
+}
+
+.heading-part .logo{
+    margin-right: 30px;
+}
+.heading-part .logo img{
+    height: 200px;
+    width: 300px;
+}
+}
+.nav-bar .one {
+    padding:20px;
+    height: 130px;
+}
+.nav-bar .one li {
+    margin-right: 40px;
+    margin-left: 20px;
+
+}
+.nav-bar .one li a {
+    font-size: 28px;
+}
+
+.nav-bar .dropdown-content {
+    height: 480px;
+    width: 400px;
+    top: 68px;
+    left: 40px;
+}
+.nav-bar .dropdown-content li {
+    padding: 5px;
+    margin-bottom:5px;
+
+}
+ */
